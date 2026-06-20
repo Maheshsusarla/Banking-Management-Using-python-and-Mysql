@@ -1,7 +1,8 @@
 # Bank Management System Using Python and MySQL
 
 
-<img width="1536" height="1024" alt="ChatGPT Image Jun 20, 2026, 01_56_54 PM" src="https://github.com/user-attachments/assets/3c1c11e3-2edd-45ef-a5dd-4bba31f80d7e" />
+![Uploading ChatGPT Image Jun 20, 2026, 01_56_54 PM.png…]()
+
 
 
 ## Project Description
