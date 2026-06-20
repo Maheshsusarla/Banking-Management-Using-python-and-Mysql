@@ -1,10 +1,5 @@
 # Bank Management System Using Python and MySQL
 
-
-![Uploading ChatGPT Image Jun 20, 2026, 01_56_54 PM.png…]()
-
-
-
 ## Project Description
 
 This is a simple Bank Management System developed using Python and MySQL Connector. The project allows users to create accounts, deposit money, withdraw money, check balance, view all accounts, and delete accounts.
